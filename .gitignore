@@ -1,2 +1,6 @@
 .venv
 .env
+*.xlsx
+godrej_analysis.ipynb
+*.csv
+*.pkl
